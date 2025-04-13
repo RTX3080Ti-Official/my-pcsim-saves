@@ -1,4 +1,4 @@
-# my-pcsim-saves
+# My PCSim Saves
 My PC Simulator saves.
 
 > [!TIP]

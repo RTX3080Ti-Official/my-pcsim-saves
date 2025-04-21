@@ -12,7 +12,7 @@ My PC Simulator saves.
 ## List of saves
 
 
-| Save Name    | Save Editor used?|
-|---------------|------------------|
-| The Best Save |  Yes             |
-| ?             | ?                |
+| Save Name     | Save Editor used? | Version | Link       |
+|---------------|-------------------|---------|------------|
+| The Best Save | Yes               | 1.8.0   | [Link](#)  |
+| ?             | ?                 | ?       | ?          |

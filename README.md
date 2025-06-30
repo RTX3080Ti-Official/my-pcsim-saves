@@ -15,4 +15,5 @@ My PC Simulator saves.
 | Save Name     | Save Editor used? | Version | Link       |
 |---------------|-------------------|---------|------------|
 | The Best Save | Yes               | 1.8.0   | [Link](#)  |
+| New Scene     | Yes               | 1.8.0   | [Link](#)
 | ?             | ?                 | ?       | ?          |

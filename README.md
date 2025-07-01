@@ -12,8 +12,8 @@ My PC Simulator saves.
 ## List of saves
 
 
-| Save Name     | Save Editor used? | Version | Link       |
-|---------------|-------------------|---------|------------|
-| The Best Save | Yes               | 1.8.0   | [Link](#)  |
-| New Scene     | Yes               | 1.8.0   | [Link](#)
-| ?             | ?                 | ?       | ?          |
+| Save Name     | Save Editor used? | Version | Link                    |
+|---------------|-------------------|---------|-------------------------|
+| The Best Save | Yes               | 1.8.0   | [Link](the-best-save/)  |
+| New Scene     | Yes               | 1.8.0   | [Link](new-scene/)      |
+| ?             | ?                 | ?       | ?                       |
